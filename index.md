@@ -50,7 +50,7 @@ Final grade cutoff:
 | # | Date | Topics | Paper Presentation | Assignment Due |
 | - | ---- | ------ | ------- | -------- |
 | 1 | 08/24 | Course Introduction (Adversarial ML) | | |
-| 2 | 08/31 | Basic Adversarial Attacks in Deep Learning | | Reading [SignUp](https://docs.google.com/spreadsheets/d/1vuHiu8vF8AwL9WXyGKBrlBncDkzkjnz116gu3_-5EQ8/edit?usp=sharing) Due|
+| 2 | 08/31 | Basic Adversarial Attacks in Deep Learning | | Reading [SignUp](https://docs.google.com/spreadsheets/d/1EZ0PzciWw3uFncb5-K5oR24nij3z1L8eD8GQTvl5QCk/edit?usp=sharing) Due|
 | 3 | 09/07 | Adversarial Attacks in Practical Settings | ✔️ |   |
 | 4 | 09/14 | Proposal Presentation ([SignUp](https://docs.google.com/spreadsheets/d/1vuHiu8vF8AwL9WXyGKBrlBncDkzkjnz116gu3_-5EQ8/edit?usp=sharing)) | | Final Proj Proposal Due  |
 | 5 | 09/21 | Defenses Strategies for Adversarial Attacks  | ✔️ |   |
