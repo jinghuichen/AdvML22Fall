@@ -18,8 +18,7 @@ This course requires the knowledge of an undergrad level machine learning course
 - Instructor: [Jinghui Chen](https://jinghuichen.github.io/) (Email: jzc5917 at psu dot edu)   
      
 - Office hours: 
-    - Wednesday after class if you have any immediate questions
-    - Friday 2-3pm on Zoom: [https://psu.zoom.us/j/91074315545](https://psu.zoom.us/j/91074315545)
+    - Tuesday 2-3pm at Westgate E380
      
 - Course Website: [https://jinghuichen.github.io/AdvML22Fall/](https://jinghuichen.github.io/AdvML22Fall/)
 - Canvas: [https://psu.instructure.com/courses/2211835](https://psu.instructure.com/courses/2211835)
@@ -51,7 +50,7 @@ Final grade cutoff:
 | # | Date | Topics | Paper Presentation | Assignment Due |
 | - | ---- | ------ | ------- | -------- |
 | 1 | 08/24 | Course Introduction (Adversarial ML) | | |
-| 2 | 08/31 | Basic Adversarial Attacks in Deep Learning | | Reading SignUp Due|
+| 2 | 08/31 | Basic Adversarial Attacks in Deep Learning | | Reading [SignUp](https://docs.google.com/spreadsheets/d/1vuHiu8vF8AwL9WXyGKBrlBncDkzkjnz116gu3_-5EQ8/edit?usp=sharing) Due|
 | 3 | 09/07 | Adversarial Attacks in Practical Settings | ✔️ |   |
 | 4 | 09/14 | Proposal Presentation ([SignUp](https://docs.google.com/spreadsheets/d/1vuHiu8vF8AwL9WXyGKBrlBncDkzkjnz116gu3_-5EQ8/edit?usp=sharing)) | | Final Proj Proposal Due  |
 | 5 | 09/21 | Defenses Strategies for Adversarial Attacks  | ✔️ |   |
@@ -60,9 +59,9 @@ Final grade cutoff:
 | 8 | 10/12 | Backdoor Attacks and Defenses  | ✔️|   |
 | 9 | 10/19 | Learnability Attacks in Deep Learning | ✔️|   |
 | 10 | 10/26 | Project Midterm Presenetation | | Proj Midterm Report Due  |
-| 11 | 11/02 | Adversarial Machine Learning beyond Image Classification | ✔️|   |
+| 11 | 11/02 | Security Problems in Federated Machine Learning | ✔️|   |
 | 12 | 11/09 | Privacy Attacks and Defenses | ✔️|   |
-| 13 | 11/16 | Fairness in Machine Learning  | ✔️ |   |
+| 13 | 11/16 | Adversarial Machine Learning beyond Image Classification | ✔️ |   |
 | 14 | 11/23 | No Class (Thanksgiving Holiday) | |   |
 | 15 | 11/30 | Final Project Presentation | |   |
 | 16 | 12/07 | Final Project Presentation | |  |
