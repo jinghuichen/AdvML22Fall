@@ -63,7 +63,7 @@ Final grade cutoff:
 | 12 | 11/09 | Privacy Attacks and Defenses | ✔️|   |
 | 13 | 11/16 | Adversarial Machine Learning beyond Image Classification | ✔️ |   |
 | 14 | 11/23 | No Class (Thanksgiving Holiday) | |   |
-| 15 | 11/30 | Final Project Presentation | |   |
+| 15 | 11/30 | ~~Final Project Presentation~~ | |   |
 | 16 | 12/07 | Final Project Presentation | |  |
 | NA | **12/12** | NA  | | Paper Review Report Due <br> Final Project Report Due  |
 
